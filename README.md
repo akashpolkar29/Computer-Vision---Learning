@@ -1,2 +1,2 @@
-# Computer-Vision---Learning
+# Computer-Vision-Learning
 Daily progress and learning
