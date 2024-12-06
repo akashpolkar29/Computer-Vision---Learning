@@ -9,7 +9,7 @@
 2. **Understanding Image Structure**:  
    - A **grayscale image** consists of a single channel with pixel values ranging from 0 (black) to 255 (white).  
    - Image dimensions are represented as `(Height, Width)` for grayscale images.
-<br>
+
 3. **Basic Steps in Image Processing**:  
    - **Load and Display an Image**:  
      ```python
