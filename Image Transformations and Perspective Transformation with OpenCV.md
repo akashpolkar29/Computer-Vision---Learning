@@ -1,4 +1,4 @@
-### **Day X: Image Transformations and Perspective Transformation with OpenCV**
+### **Image Transformations and Perspective Transformation with OpenCV**
 
 1. **Image Transformations Overview**:
    - In this session, we learned essential image manipulation techniques: **rotation**, **translation**, **scaling (resizing)**, **affine**, and **non-affine (perspective) transformations**.
