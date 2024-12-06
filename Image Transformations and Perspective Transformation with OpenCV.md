@@ -71,7 +71,3 @@
    - **Perspective Transformations**: Distort parallel lines and angles to make objects appear as though viewed from a different viewpoint.
    - Perspective transformation is **critical** for preprocessing images, especially in **autonomous vehicles**, where objects must be interpreted from various angles to improve model accuracy.
 
----
-
-These notes reflect the daily progress in learning image transformations and perspective correction techniques using OpenCV, with an emphasis on practical applications and code implementations.
-```
