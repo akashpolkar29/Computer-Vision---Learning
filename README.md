@@ -1,6 +1,6 @@
 # Computer-Vision-Learning
 Daily progress and learning
-<br>
+
 ## Challenegs in Computer Vision to detect the objects from the picture
 <br>
   a. Viewpoints
