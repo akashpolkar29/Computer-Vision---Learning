@@ -8,7 +8,7 @@
    - Features are specific areas in an image with unique characteristics, such as:
      - **Color differences**: Example – the blue hood of a truck contrasting against a gray sky.
      - **Edges**: Detected using techniques like **Canny edge detection**, which highlights boundaries in an image.
-<br>
+
 #### **2. What Makes a Good Feature?**
    - A feature must be **repeatable**, meaning it should be identifiable across different scenes and viewpoints.
    - Example: Features of a vehicle should be consistent regardless of the viewing angle or lighting conditions.
