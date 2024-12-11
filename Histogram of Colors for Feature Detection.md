@@ -1,7 +1,7 @@
 ### **Histogram of Colors for Feature Detection**
 
 ---
-
+<br>
 #### **1. Introduction to Histograms and Feature Detection**
    - **What is a Histogram?**  
      A histogram represents the frequency distribution of pixel intensity values in an image. In the context of colors, histograms show the distribution of **Red**, **Green**, and **Blue (RGB)** intensity values across an image.
