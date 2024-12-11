@@ -5,6 +5,7 @@ Daily progress and learning
 <br>
   a. Viewpoints
 <br>
+
   b. Camera Limitations
 <br>
   c. Lighting
