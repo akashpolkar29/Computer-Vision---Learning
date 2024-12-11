@@ -6,7 +6,7 @@
    - **Tools**: 
      - `cv2.matchTemplate`: Performs template matching.
      - `cv2.minMaxLoc`: Locates the best match (maximum correlation) in the result.
-
+<br>
 ---
 
 #### **2. Steps for Template Matching**
