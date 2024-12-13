@@ -6,7 +6,7 @@
        ```python
        cropped_image = image[y1:y2, x1:x2]
        ```
-<br>
+
 2. **Dilation and Erosion**:
    - **Dilation** adds pixels around objects, making them thicker.
    - **Erosion** removes pixels from objects' edges, making them thinner.
