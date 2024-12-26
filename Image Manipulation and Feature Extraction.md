@@ -1,5 +1,5 @@
 ### **Image Manipulation and Feature Extraction with OpenCV**
-<br>
+
 #### **Manipulating Grayscale Images with OpenCV**
 
 1. **Key Concepts**:  
