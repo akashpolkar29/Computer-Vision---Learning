@@ -1,6 +1,4 @@
 ### **Image Pyramiding with OpenCV**
-<br>
----
 
 #### **1. Introduction to Image Pyramiding**
    - **Definition**:  
