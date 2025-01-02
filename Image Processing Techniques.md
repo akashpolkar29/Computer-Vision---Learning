@@ -1,5 +1,5 @@
 ### **Image Processing Techniques Cropping, Dilation, Erosion, ROI Masking, and Hough Transform**
-<br>
+
 1. **Image Cropping**:
    - **Cropping** extracts a specific part of an image using coordinates for the top-left and bottom-right corners.
      - **Syntax**:
