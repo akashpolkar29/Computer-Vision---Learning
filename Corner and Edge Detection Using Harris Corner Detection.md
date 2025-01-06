@@ -4,7 +4,6 @@
      Example: The boundary of an object in an image.  
    - **Corners**: Points where intensity changes in **multiple directions**, typically at the intersection of two edges.  
      Example: The corner of a building or object in an image.
-s
 ---
 
 #### **2. Harris Corner Detection Overview**
