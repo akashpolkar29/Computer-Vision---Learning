@@ -1,5 +1,5 @@
 ### **Template Matching for Object Detection**
-ss
+ssss
 #### **1. Introduction to Template Matching**
    - **Objective**: Locate a specific object (e.g., a truck) within an image by using a smaller template image.
    - **Concept**: Compare the template with regions of the original image to find a match using **correlation**.
