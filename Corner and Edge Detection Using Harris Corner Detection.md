@@ -1,5 +1,5 @@
 ### **Corner and Edge Detection Using Harris Corner Detection**
-sssssssssssss
+ssssssssssssss
 #### **1. Introduction to Corners and Edges**
    - **Edges**: Detected by changes in pixel intensity in one direction.  
      Example: The boundary of an object in an image.  
