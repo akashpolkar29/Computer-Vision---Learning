@@ -1,5 +1,5 @@
 ### **Histogram of Colors for Feature Detection**
-sssssssssss
+ssssssssssss
 
 #### **1. Introduction to Histograms and Feature Detection**
    - **What is a Histogram?**  
