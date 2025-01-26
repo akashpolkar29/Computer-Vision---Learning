@@ -1,5 +1,5 @@
 ### **Feature Detection and Manual Object Localization**
-ssssss
+sssssss
 #### **1. Introduction to Feature Detection**
    - Feature detection is a key technique used in computer vision for analyzing images and detecting unique areas such as **objects**, **corners**, or **colors**.
    - Essential for tasks like:
