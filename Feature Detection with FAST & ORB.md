@@ -1,5 +1,5 @@
 ### **Feature Detection with FAST & ORB**
-sssss
+
 #### **1. Introduction to Feature Detectors**
 
 - **What are Feature Detectors?**  
