@@ -1,5 +1,5 @@
 ### **Image Transformations and Perspective Transformation with OpenCV**
-ssss
+
 1. **Image Transformations Overview**:
    - In this session, we learned essential image manipulation techniques: **rotation**, **translation**, **scaling (resizing)**, **affine**, and **non-affine (perspective) transformations**.
    - These transformations are fundamental for tasks like **lane detection**, **object tracking**, and **image pre-processing** in computer vision.
