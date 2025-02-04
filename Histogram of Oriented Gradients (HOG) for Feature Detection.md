@@ -1,7 +1,5 @@
 ### **Histogram of Oriented Gradients (HOG) for Feature Detection**
 
----
-
 #### **1. Introduction to HOG Features**
 
 - **What are HOG Features?**  
